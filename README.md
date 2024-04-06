@@ -2,7 +2,8 @@
 <img width="540" src="2.gif" alt="wp"/>
 
 ## <p align="center"> Привет 👋 Меня зовут Ильяс! 
-<a src="https://t.me/ev1lyas" target="_blank" rel="noreferrer"><img src="tg.svg" width="70" height="17"  alt="Go" /></a> </p>
+
+<p align="center"> <a href="https://t.me/ev1lyas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="tg.svg" /> <source media="(prefers-color-scheme: light)" srcset="tg.svg" /> <img src="tg.svg" width="70" height="20" /> </picture> </a>
 
 ### <img width="45" src="3.png" alt="3"/> Обо мне
 Я начинающий Golang разработчик.
