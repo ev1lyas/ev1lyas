@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://t.me/ev1lyas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="tg.svg" /> <source media="(prefers-color-scheme: light)" srcset="tg.svg" /> <img src="tg.svg" width="70" height="20" /> </picture> </a>
 
-### <img width="45" src="3.png" alt="3"/> Обо мне
+### <img width="35" height="31" src="3.png" alt="3"/> Обо мне
 Я начинающий Golang разработчик.
 Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив и поступил на основное обучение. Изучал языки C, С++, SQL, также делал проекты в направлении devops, больше всего меня зацепила Backend разработка и язык Go! Мне 25 лет, в свободное время хожу в зал и играю на барабанах :)
 
