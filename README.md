@@ -1,5 +1,5 @@
 <p align="center">
-<img width="700" src="2.gif" alt="wp"/>
+<img width="500" src="2.gif" alt="wp"/>
 </p>
 
 Привет 👋 Меня зовут Ильяс!
